@@ -1,6 +1,6 @@
 ---
 title: "Resume Jaringan PAN, LAN, MAN, dan WAN"
-last_modified_at: 2023-09-23T16:20:02-05:00
+last_modified_at: 2023-09-23T06:00:02-05:00
 categories:
   - Blog
 tags:
