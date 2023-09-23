@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Azriel Fidzlie"
   avatar : "/assets/images/ulee.jpg"
-  bio    : "I am an amazing person."
+  bio    : "I am an **amazing** person."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
