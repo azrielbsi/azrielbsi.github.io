@@ -11,6 +11,10 @@ tags:
 
 ![image](https://github.com/azrielbsi/blog/assets/126305178/4b68c71b-d7d8-4588-97cf-3d12d0417680)
 
+Nama: Azriel Fidzlie
+NIM: 19215261
+Kelas: 19.A4.07
+
 **PAN ( Personal Area Network )**
   
   Personal Area Network (PAN) merupakan jaringan komputer yang digunakan untuk komunikasi antara komputer perangkat (termasuk telepon dan asisten pribadi digital) dekat dari satu orang. Perangkat mungkin atau tidak milik orang tersebut. Jangkauan dari PAN biasanya beberapa 10 meter. PAN dapat digunakan untuk komunikasi antara perangkat pribadi mereka sendiri (intrapersonal komunikasi), atau untuk menghubungkan ke tingkat yang lebih tinggi dan jaringan Internet (an uplink).
