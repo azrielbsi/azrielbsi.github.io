@@ -3,6 +3,12 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+<a href="https://holopin.io/@juliusulee"><img title="🦖 Holopin" src="https://holopin.me/juliusulee" alt="@juliusulee&#39;s Holopin board"></a>
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+About me
+======
+I was born and raised in [Jakarta](https://goo.gl/maps/Ht178nYrYi4pYYDN8). Jakarta is located in the province of West Java, Indonesia, and is famous for its rich history, including as the capital of Sunda Kalapa and being the port center of the Padjadjaran kingdom. I look forward to seeing you in my hometown.
+
+Education
+======
+I am currently completing a Bachelor at [Bina Sarana Informatika University (UBSI)](https://goo.gl/maps/SeYPofUEBUFnR2xr6) to earn an S.Kom degree, previously I studied at [SMK Harapan Bangsa](https://goo.gl/maps/jZExCzgEMXzYFkgy7) high school in West Java province and majored in Computer Network Engineering.
