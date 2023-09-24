@@ -20,7 +20,7 @@ Kelompok 3 Kelas: 19.A4.07
 5. Maulana Reza Haqq 19215255
 
 
-**PAN ( Personal Area Network )**
+# PAN ( Personal Area Network )
   
   Personal Area Network (PAN) merupakan jaringan komputer yang digunakan untuk komunikasi antara komputer perangkat (termasuk telepon dan asisten pribadi digital) dekat dari satu orang. Perangkat mungkin atau tidak milik orang tersebut. Jangkauan dari PAN biasanya beberapa 10 meter. PAN dapat digunakan untuk komunikasi antara perangkat pribadi mereka sendiri (intrapersonal komunikasi), atau untuk menghubungkan ke tingkat yang lebih tinggi dan jaringan Internet (an uplink).
 Kegunaan Personal Are Network
@@ -33,7 +33,7 @@ Contoh Penggunaan Jaringan PAN
 3.	Menghubungkan Printer dengan Laptop menggunakan Bluetooth
 Cara kerja : dengan cara menghubungkan komputer lokal / sharing data atau informasi jarak lebih kecil dibandingkan dengan LAN.
 
-**LAN (Local Area Network)**
+# LAN (Local Area Network)
 
   LAN atau kepanjangan dari Local Area Network merupakan jaringan komputer dengan  cakupan jaringan yang wilayahnya kecil seperti jaringan komputer gedung, kampus, kantor, sekolah, di dalam rumah, atau di dalam satu ruangan. Kebanyakan LAN saat ini berbasis teknologi Ieee 802.3. Ethernet dan menggunakan perangkat switch yang memiliki kecepatan transfer data 10, 100, 1000 Mbit/s. Saat ini teknologinya menggunakan 802.11b atau WiFi untuk membuat LAN. Biasanya, tempat – tempat yang menyediakan LAN dengan memanfaatkan WiFi sering disebut dengan hotspot.
   Di sebuah LAN, setiap komputer atau node memiliki daya komputasi sendiri. Hal ini tidak sama dengan konsep dump termimal. Tiap komputer juga mampu mengakses sumber daya di LAN sesuai hak akses yang sudah diatur. Sumber daya ini dapat berupa perangkat atau data seperti printer. Di LAN, pengguna juga bisa berkomunikasi dengan pengguna lainnya dengan aplikasi yang sesuai.
@@ -62,7 +62,7 @@ Alat untuk membangun sebuah jaringan LAN
 
 
 
-**MAN (Metropolitan Area Network)**
+# MAN (Metropolitan Area Network)
 
   MAN atau kepanjangan dari Metropolitan Area Network adalah suatu jaringan di dalam suatu kota dengan mengirimkan data berkecepatan tinggi yang menghubungkan beberapa lokasi seperti perkantoran, kampus, pemerintahan, dan lain sebagainya. Jaringan MAN merupakan gabungan beberapa LAN. Jangkauan MAN ini antara berjarak 10 – 50 km. MAN adalah jaringan yang cocok untuk membangun jaringan antar perkantoran di dalam satu kota antara instansi/pabrik dan kantor pusat yang masih ada di dalam jangkauannya.
 Keuntungan MAN:
@@ -83,7 +83,7 @@ Berikut adalah karakteristik MAN yaitu:
 4.  MAN berukuran lebih besar dan biasanya memakai teknologi yang sama dengan LAN.
 5.  Hanya memiliki sebuah atau dua buah kabel dan tidak memiliki elemen switching, yang berfungsi untuk mengatur paket melalui beberapa output kabel .
 
-**WAN (Wide Area Network)**
+# WAN (Wide Area Network)
 
   WAN atau kepanjangan dari Wide Area Network adalah jaringan komputer yang menjangkau area yang lebih luas misalnya jaringan komputer antar daerah, kota, atau negara. Jadi WAN adalah jaringan komputer yang memerlukan saluran komunikasi publik dan router. WAN dimanfaatkan untuk menghubungkan jaringan lokal satu dengan lainnya sehingga memungkinkan pengguna di suatu lokasi dapat berkomunikasi dengan para pengguna di lokasi lainnya.
 Keuntungan Jaringan WAN.
