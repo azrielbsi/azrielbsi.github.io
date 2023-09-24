@@ -11,9 +11,14 @@ tags:
 
 ![image](https://github.com/azrielbsi/blog/assets/126305178/4b68c71b-d7d8-4588-97cf-3d12d0417680)
 
-Nama: Azriel Fidzlie
-NIM: 19215261
-Kelas: 19.A4.07
+Kelompok 3 Kelas: 19.A4.07
+
+1. Azriel Fidzlie 19215261
+2. M Daffa R 19215264
+3. M Azhar A 19215058
+4. Sigit Prastio 19215143
+5. Maulana Reza Haqq 19215255
+
 
 **PAN ( Personal Area Network )**
   
