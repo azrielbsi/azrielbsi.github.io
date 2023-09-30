@@ -11,6 +11,17 @@ tags:
 
 Untuk menghitung jumlah network dan host yang akan terbentuk dari alamat IP Address serta membuat rincian alamat, kita perlu memahami notasi CIDR (Classless Inter-Domain Routing). Dalam notasi CIDR, alamat IP terdiri dari dua bagian: network address dan host address, di mana jumlah bit yang dialokasikan untuk network address dapat bervariasi.
 
+![image](https://github.com/azrielbsi/azrielbsi.github.io/assets/126305178/d3f2c2c2-7e47-4afa-9668-4d4647e48c96)
+
+
+Kelompok 3 Kelas: 19.A4.07
+
+1. Azriel Fidzlie 19215261
+2. M Daffa R 19215264
+3. M Azhar A 19215058
+4. Sigit Prastio 19215143
+5. Maulana Reza Haqq 19215255
+
 Hitunglah jumlah Network dan Host yang akanterbentuk dari alamat IP Address dibawah ini, kemudian buat rincian alamat (Network, Broadcast) beserta alamat yang dapat diberikan kepada setiap host (minimal untuk 5 host/komputer):
 1. 192.168.10.1/30
 2. 172.168.10.1/16
