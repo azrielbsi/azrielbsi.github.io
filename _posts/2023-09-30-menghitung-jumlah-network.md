@@ -18,14 +18,13 @@ Hitunglah jumlah Network dan Host yang akanterbentuk dari alamat IP Address diba
 4. 10.168.5.1/8
 5. 10.168.5.1/17
 
-1. 192.168.10.1/30
+# 1. 192.168.10.1/30
 
 Netmask = 255.255
 
 Subnet = 11111111. 11111111. 11111111. 111111.00
 
-
-Jumlah Network
+### Jumlah Network
 
 = 2^6
 
@@ -34,7 +33,7 @@ Jumlah Network
 = 64
 
 
-Host
+### Host
 
 = 2^2-2
 
@@ -47,7 +46,7 @@ Host
 = 2 Host
 
 
-#Alokasi IP
+## Alokasi IP
 
 
 Network   : 192.168.10.0
