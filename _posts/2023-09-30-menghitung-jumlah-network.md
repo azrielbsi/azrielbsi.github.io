@@ -46,7 +46,7 @@ Subnet = 11111111. 11111111. 11111111. 111111.00
 = 2 Host
 
 
-## Alokasi IP
+### Alokasi IP
 
 
 Network   : 192.168.10.0
@@ -69,61 +69,90 @@ host : 192.168.10.9 - 192.168.10.10
 
 broadcast : 192.168.10.11
 
-2. 172.168.10.1/16
+# 2. 172.168.10.1/16
 
 Netmask = 255.255.000.000
+
 Subnet = 11111111.11111111.00000000.00000000
+
 Network = 2n = 20 = 1 network
+
 Host = 2h-2 = 216-2 = 65.534 host
 
-Alokasi IP
+
+### Alokasi IP
 
 Network :172.168.0.0
+
 Host : 172.168.0.1 - 192.168.255.254
+
 Broadcast : 192.168.255.255
 
-3. 172.168.10.1/22
+
+# 3. 172.168.10.1/22
 
 Netmask = 255.255.252.0
+
 Subnet = 11111111.11111111.11111100.00000000
+
 Jumlah Network = 2^6
+
 = 2x2x2x2x2x2
+
 = 64 Network
 
-Jumlah Host = 2^10 - 2
+### Jumlah Host = 2^10 - 2
 = 1024 - 2
 =1022 Host
 
-Alokasi IP
+### Alokasi IP
 
 Network : 172.168.10.0
+
 Host Pertama : 172.168.10.1
+
 Host Kedua : 172.168.10.2
+
 Host Terakhir : 172.168.255.254
+
 Broadcast : 172.168.255.255
 
-4. 10.168.5.1/8
+
+# 4. 10.168.5.1/8
 
 Netmask = 255.000.000.000
+
 Subnet = 11111111.00000000.00000000.00000000
+
 Network = 2n = 20 = 1 network
+
 Host = 2h-2 = 224-2 = 167.772.614 host
 
-Alokasi IP
+
+### Alokasi IP
 
 Network : 10.168.5.0
+
 Host : 10.0.0.1 - 10.255.255.254
+
 Broadcast : 10.255.255.255
 
-5. 10.168.5.1/17
+
+# 5. 10.168.5.1/17
 
 Netmask = 255.255.128.000
+
 Subnet = 11111111.11111111.10000000.00000000
+
 Network = 2n = 21 = 2 network
+
 Host = 2h-2 = 215-2 = 32.766 host
 
-Alokasi IP :
+
+### Alokasi IP :
 
 Network :10.168.0.0
+
 Host : 10.168.0.1 - 10.168.127.254
+
 Broadcast : 10.168.127.255
