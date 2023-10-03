@@ -1,7 +1,7 @@
 ---
 title: "Resume Jaringan PAN, LAN, MAN, dan WAN"
 header:
-  overlay_image: /assets/header/images/jaringan.jpeg
+  overlay_image: /assets/images/header/jaringan.jpg
   actions:
     - label: "Learn more"
       url: "https://azrielbsi.github.io/blog/resume-jaringan/#pan--personal-area-network-"
