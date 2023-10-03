@@ -1,6 +1,7 @@
 ---
 permalink: /about/
 title: "About"
+toc: true
 ---
 
 <a href="https://holopin.io/@juliusulee"><img title="🦖 Holopin" src="https://holopin.me/juliusulee" alt="@juliusulee&#39;s Holopin board"></a>
