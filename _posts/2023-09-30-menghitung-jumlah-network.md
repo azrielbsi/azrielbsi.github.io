@@ -7,6 +7,7 @@ tags:
   - Tugas
   - BSI
   - Jaringan Komputer
+toc: true
 ---
 
 Untuk menghitung jumlah network dan host yang akan terbentuk dari alamat IP Address serta membuat rincian alamat, kita perlu memahami notasi CIDR (Classless Inter-Domain Routing). Dalam notasi CIDR, alamat IP terdiri dari dua bagian: network address dan host address, di mana jumlah bit yang dialokasikan untuk network address dapat bervariasi.
