@@ -41,3 +41,43 @@ Kelas: 19.4A.07
 
 ## Kegunaan:
 - Mouse digunakan untuk mengontrol kursor pada layar komputer dan memudahkan pengguna dalam melakukan seleksi, navigasi, dan interaksi dengan elemen-elemen grafis.
+
+# 3. Mikrofon
+
+![image](https://github.com/azrielbsi/azrielbsi.github.io/assets/126305178/50d12b2c-27bd-475d-a7bc-19cb8479915a)
+
+## Cara Kerja:
+- Mikrofon mengubah sinyal suara menjadi sinyal listrik. Ketika pengguna berbicara atau membuat suara, mikrofon mengubahnya menjadi data audio yang dapat diproses oleh komputer.
+
+## Kegunaan:
+- Mikrofon digunakan untuk merekam suara, melakukan panggilan suara, dan berinteraksi dengan aplikasi yang memerlukan input suara, seperti pengenalan suara atau aplikasi konferensi suara.
+
+# 4. Monitor
+
+![image](https://github.com/azrielbsi/azrielbsi.github.io/assets/126305178/daede489-062e-4ee6-8cb7-a81a13d5ed37)
+
+## Cara Kerja:
+- Monitor menggunakan teknologi seperti LCD atau LED untuk menghasilkan cahaya dan warna yang sesuai dengan data yang diterimanya dari komputer. Ini menciptakan gambar dan teks di layar.
+
+## Kegunaan:
+- Monitor adalah piranti output yang menampilkan informasi, gambar, dan video dari komputer. Mereka memungkinkan pengguna untuk melihat dan berinteraksi dengan tampilan grafis.
+
+# 5. Printer
+
+![image](https://github.com/azrielbsi/azrielbsi.github.io/assets/126305178/529ac7ee-2ae9-48a7-a43a-57d24355c3da)
+
+## Cara Kerja:
+- Printer menerima data dari komputer dan menggunakan berbagai teknologi (seperti tinta, toner, atau thermal) untuk mencetak gambar atau teks pada media seperti kertas.
+
+## Kegunaan:
+- Printer digunakan untuk mencetak dokumen, gambar, grafik, dan materi lainnya menjadi bentuk fisik. Ini berguna dalam pembuatan laporan, materi presentasi, dan dokumentasi fisik.
+
+# 6. Speaker
+
+![image](https://github.com/azrielbsi/azrielbsi.github.io/assets/126305178/1fb2c6a5-de57-4f93-8818-314324a627c7)
+
+## Cara Kerja:
+- Speaker mengubah sinyal listrik yang diterima dari komputer atau perangkat audio menjadi gelombang suara yang dapat didengar oleh manusia.
+
+## Kegunaan:
+-  Speaker digunakan untuk mengeluarkan suara dari komputer atau perangkat elektronik lainnya. Mereka penting untuk mendengarkan musik, audio dari video, dan percakapan suara.
