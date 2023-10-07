@@ -3,6 +3,7 @@ title: "Penjelasan dan Kegunaan Piranti Interaktif"
 author_profile: false
 excerpt: "Penjelasan mengenai cara kerja **piranti** beserta dengan kegunaan."
 header:
+  teaser: "/assets/images/teaser/pirantii.png"
   overlay_image: /assets/images/header/network-banner.png
 last_modified_at: 2023-10-05T13:00:02-05:00
 categories:
