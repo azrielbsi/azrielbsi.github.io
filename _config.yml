@@ -25,7 +25,7 @@ minimal_mistakes_skin: aqua
 comments:
   provider: "disqus"
   disqus:
-    shortname: "translucent504-github-io"
+    shortname: "azrielbsi-github-io"
 search: true
 
 # Build settings
@@ -100,7 +100,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: false
+      comments: true
       share: true
       related: true
   # _pages
