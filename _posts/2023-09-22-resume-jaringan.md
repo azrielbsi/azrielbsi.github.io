@@ -2,6 +2,7 @@
 title: "Resume Jaringan PAN, LAN, MAN, dan WAN"
 author_profile: false
 header:
+  teaser: "/assets/images/teaser/lan.jpg"
   overlay_image: /assets/images/header/jaringan.jpg
   actions:
     - label: "Learn more"
