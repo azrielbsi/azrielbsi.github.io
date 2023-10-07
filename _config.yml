@@ -110,7 +110,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-      related: true
 
 category_archive:
   type: liquid
