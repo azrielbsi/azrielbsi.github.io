@@ -22,6 +22,10 @@ description: >- # this means to ignore newlines until "baseurl:"
 twitter_username: username
 github_username: Julius-Ulee
 minimal_mistakes_skin: aqua
+comments:
+  provider: "disqus"
+  disqus:
+    shortname: "azrielbsi.github.io"
 search: true
 
 # Build settings
@@ -88,7 +92,7 @@ footer:
       url: "https://instagram.com/mas.ulee"
 
 defaults:
-   _posts
+  # _posts
   - scope:
       path: ""
       type: posts
@@ -96,7 +100,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
+      comments: false
       share: true
       related: true
   # _pages
