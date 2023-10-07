@@ -36,7 +36,7 @@ Netmask = 255.255
 
 Subnet = 11111111. 11111111. 11111111. 111111.00
 
-### Jumlah Network
+## Jumlah Network
 
 = 2^6
 
@@ -45,7 +45,7 @@ Subnet = 11111111. 11111111. 11111111. 111111.00
 = 64
 
 
-### Host
+## Host
 
 = 2^2-2
 
@@ -58,7 +58,7 @@ Subnet = 11111111. 11111111. 11111111. 111111.00
 = 2 Host
 
 
-### Alokasi IP
+## Alokasi IP
 
 
 Network   : 192.168.10.0
@@ -92,7 +92,7 @@ Network = 2n = 20 = 1 network
 Host = 2h-2 = 216-2 = 65.534 host
 
 
-### Alokasi IP
+## Alokasi IP
 
 Network :172.168.0.0
 
@@ -113,11 +113,11 @@ Jumlah Network = 2^6
 
 = 64 Network
 
-### Jumlah Host = 2^10 - 2
+## Jumlah Host = 2^10 - 2
 = 1024 - 2
 =1022 Host
 
-### Alokasi IP
+## Alokasi IP
 
 Network : 172.168.10.0
 
@@ -141,7 +141,7 @@ Network = 2n = 20 = 1 network
 Host = 2h-2 = 224-2 = 167.772.614 host
 
 
-### Alokasi IP
+## Alokasi IP
 
 Network : 10.168.5.0
 
@@ -161,7 +161,7 @@ Network = 2n = 21 = 2 network
 Host = 2h-2 = 215-2 = 32.766 host
 
 
-### Alokasi IP :
+## Alokasi IP :
 
 Network :10.168.0.0
 
