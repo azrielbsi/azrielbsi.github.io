@@ -2,7 +2,7 @@
 title: "Posts by Year"
 permalink: /posts/
 layout: posts
-author_profile: false
+author_profile: true
 title: School Programs
 header:
   overlay_image: /assets/images/header/apple-eye.jpg
