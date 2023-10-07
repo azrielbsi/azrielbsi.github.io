@@ -88,7 +88,7 @@ footer:
       url: "https://instagram.com/mas.ulee"
 
 defaults:
-  # _posts
+   _posts
   - scope:
       path: ""
       type: posts
