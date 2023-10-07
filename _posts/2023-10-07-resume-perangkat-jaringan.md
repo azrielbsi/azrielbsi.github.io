@@ -5,7 +5,6 @@ excerpt: "Penjelasan mengenai karakteristik **perangkat** beserta cara kerjanya.
 header:
   overlay_image: /assets/images/header/network-banner.png
 last_modified_at: 2023-10-07T12:00:00-01:00
-
 categories:
   - Learn
 tags:
@@ -15,6 +14,7 @@ tags:
 toc: true
 toc_sticky: true
 comments: true
+excerpt_separator: "<!--more-->"
 ---
 
 # 1. REPEATER
