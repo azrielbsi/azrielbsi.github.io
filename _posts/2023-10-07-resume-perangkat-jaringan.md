@@ -17,14 +17,14 @@ toc: true
 toc_sticky: true
 comments: true
 sidebar:
-  - title: "Repeater"
+  - title: "Kelompok 3 Kelas: 19.A4.07"
     image: "/assets/images/header/apple-eye.jpg"
     image_alt: "image"
-    text: "Adalah sebuah perangkat yang digunakan dalam jaringan komputer untuk memperluas jangkauan jaringan dan meningkatkan kinerja transmisi data. Perangkat ini bekerja pada lapisan fisik (Layer 1) dalam model referensi OSI (Open Systems Interconnection) dan memiliki fungsi utama yaitu memperkuat sinyal data yang masuk sehingga dapat melanjutkan transmisi data lebih jauh dalam jaringan."
-  - title: "Bridge"
-    text: "Adalah perangkat jaringan yang beroperasi pada lapisan Data Link Layer (Layer 2) dalam model referensi OSI (Open Systems Interconnection). Fungsi utama dari sebuah bridge adalah untuk menghubungkan dua atau lebih segmen jaringan lokal (LAN) yang berbeda menjadi satu jaringan yang lebih besar. Bridge bekerja dengan cara memeriksa alamat fisik (alamat MAC) dari setiap frame data yang masuk dan mengambil keputusan apakah frame tersebut harus diteruskan ke segmen jaringan lain atau tidak."
-  - title: "Network Interface Card (NIC)"
-    text: "Juga dikenal sebagai Ethernet adapter, LAN adapter, atau network adapter, adalah perangkat keras yang digunakan dalam komputer untuk menghubungkan komputer tersebut ke jaringan komunikasi data. NIC adalah kartu ekspansi yang terpasang di dalam komputer, biasanya di slot PCI atau PCIe pada motherboard, dan berfungsi sebagai antarmuka fisik antara komputer dan jaringan."
+    text: "1. Azriel Fidzlie 19215261
+2. M Daffa R 19215264
+3. M Azhar A 19215058
+4. Sigit Prastio 19215143
+5. Maulana Reza Haqq 19215255"
 ---
 
 # 1. REPEATER
@@ -81,12 +81,6 @@ NIC adalah singkatan dari Network Interface Card yaitu sebuah kartu yang fungsin
 3. Sebagai penenerima data yang dikirim dari komputer/PC lain lewat kabel & menerjemahkannya ke dalam bit yang bisa dimengerti oleh komputer.
 
 
-## Kelompok 3 Kelas: 19.A4.07
+## Tugas Mandiri
 
 ![image](https://github.com/azrielbsi/azrielbsi.github.io/assets/126305178/526ffa5e-f9e2-440c-8d4f-ee868a5e5b97)
-
-1. Azriel Fidzlie 19215261
-2. M Daffa R 19215264
-3. M Azhar A 19215058
-4. Sigit Prastio 19215143
-5. Maulana Reza Haqq 19215255
