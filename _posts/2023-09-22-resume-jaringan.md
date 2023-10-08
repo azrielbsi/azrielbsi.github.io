@@ -4,12 +4,9 @@ author_profile: false
 header:
   teaser: "/assets/images/teaser/lan.jpg"
   overlay_image: /assets/images/header/jaringan.jpg
-  actions:
-    - label: "Learn more"
-      url: "https://azrielbsi.github.io/blog/resume-jaringan/#pan--personal-area-network-"
 last_modified_at: 2023-09-22T06:00:02-05:00
 categories:
-  - Blog
+  - Learn
 tags:
   - Tugas
   - BSI
