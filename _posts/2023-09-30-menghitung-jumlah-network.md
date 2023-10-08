@@ -5,7 +5,7 @@ last_modified_at: 2023-09-30T15:00:00-01:00
 header:
   teaser: "/assets/images/teaser/ipaddress.jpg"
 categories:
-  - Blog
+  - Learn
 tags:
   - Tugas
   - BSI
