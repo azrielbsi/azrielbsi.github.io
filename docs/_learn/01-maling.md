@@ -1,17 +1,10 @@
 ---
-title: "Resume Jaringan PAN, LAN, MAN, dan WAN"
+title: "Quick-Start Guide"
 permalink: /docs/maling/
-author_profile: false
-header:
-  teaser: "/assets/images/teaser/lan.jpg"
-  overlay_image: /assets/images/header/jaringan.jpg
-last_modified_at: 2023-09-22T06:00:02-05:00
-categories:
-  - Learn
-tags:
-  - Tugas
-  - BSI
-  - Jaringan Komputer
+excerpt: "How to quickly install and setup Minimal Mistakes for use with GitHub Pages."
+last_modified_at: 2021-06-07T08:48:05-04:00
+redirect_from:
+  - /theme-setup/
 toc: true
 ---
 
