@@ -20,11 +20,7 @@ sidebar:
   - title: "Kelompok 3 Kelas: 19.A4.07"
     image: "/assets/images/header/apple-eye.jpg"
     image_alt: "image"
-    text: "1. Azriel Fidzlie 19215261
-2. M Daffa R 19215264
-3. M Azhar A 19215058
-4. Sigit Prastio 19215143
-5. Maulana Reza Haqq 19215255"
+    text: "[Ice Cold: Murder, Coffee and Jessica Wongso (2023)](https://tv.idlixplus.net/movie/ice-cold-murder-coffee-and-jessica-wongso-2023/)"
 ---
 
 # 1. REPEATER
@@ -81,6 +77,12 @@ NIC adalah singkatan dari Network Interface Card yaitu sebuah kartu yang fungsin
 3. Sebagai penenerima data yang dikirim dari komputer/PC lain lewat kabel & menerjemahkannya ke dalam bit yang bisa dimengerti oleh komputer.
 
 
-## Tugas Mandiri
+## Kelompok 3 Kelas: 19.A4.07
 
 ![image](https://github.com/azrielbsi/azrielbsi.github.io/assets/126305178/526ffa5e-f9e2-440c-8d4f-ee868a5e5b97)
+
+1. Azriel Fidzlie 19215261
+2. M Daffa R 19215264
+3. M Azhar A 19215058
+4. Sigit Prastio 19215143
+5. Maulana Reza Haqq 19215255
