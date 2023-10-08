@@ -66,6 +66,9 @@ author:
   avatar : "/assets/images/stationery.png"
   bio    : "Kami pengembang teknologi yang berkomitmen meretas masa depan melalui inovasi teknologi untuk solusi tantangan global. Kami siap memimpin perubahan melalui riset, pengembangan, dan implementasi teknologi terdepan."
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:fidzlieazriel@email.com"
    # - label: "Website"
    #   icon: "fas fa-fw fa-link"
    #   url: "https://"
