@@ -40,11 +40,6 @@ timezone: Asia/jakarta # https://en.wikipedia.org/wiki/List_of_tz_database_time_
 include:
   - _pages
 
-# Collections
-collections:
-  articles:
-    output: true
-    permalink: /:collection/:path/
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
