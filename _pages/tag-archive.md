@@ -1,4 +1,5 @@
 ---
+title: School Programs
 permalink: /tags/
 layout: tags
 author_profile: false
