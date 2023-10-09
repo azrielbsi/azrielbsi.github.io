@@ -11,4 +11,5 @@ sidebar:
     image: "/assets/images/sidebar/literature.webp"
     image_alt: "literature"
     text: "Program belajar adalah tentang komitmen, ketekunan, dan konsistensi. Ingatlah bahwa proses belajar itu sendiri adalah prestasi, dan Anda akan tumbuh dan berkembang seiring berjalannya waktu. Semoga berhasil dalam program belajar Anda!"
+toc: true
 ---
