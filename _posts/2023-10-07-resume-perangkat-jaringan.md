@@ -17,11 +17,6 @@ tags:
 toc: true
 toc_sticky: true
 comments: true
-sidebar:
-  - title: "Coffee?"
-    image: "/assets/images/header/apple-eye.jpg"
-    image_alt: "image"
-    text: "[Ice Cold: Murder, Coffee and Jessica Wongso (2023)](https://tv.idlixplus.net/movie/ice-cold-murder-coffee-and-jessica-wongso-2023/)"
 ---
 
 # 1. REPEATER
