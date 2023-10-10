@@ -2,6 +2,7 @@
 title: "Resume Perangkat Jaringan Repeater, Bridge, dan Network Interface Card"
 author_profile: false
 excerpt: "Penjelasan mengenai karakteristik **perangkat** beserta cara kerjanya."
+breadcrumbs: true
 header:
   teaser: "/assets/images/teaser/teaser2.jpg"
   overlay_image: /assets/images/header/network-banner.png
