@@ -41,6 +41,9 @@ include:
   - _pages
 
 collections:
+  posts:
+    output: true
+    permalink: /:collection/:path/
   articles:
     output: true
     permalink: /:collection/:path/
