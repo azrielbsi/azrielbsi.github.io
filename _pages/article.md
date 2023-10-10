@@ -1,7 +1,7 @@
 ---
 layout: collection
 title: "Article"
-collection: article
+collection: articles
 permalink: /articles/
 
 title: School Programs
