@@ -41,7 +41,7 @@ include:
   - _pages
 
 collections:
-  learns:
+  Learns:
     output: true
     permalink: /:collection/:path/
   articles:
