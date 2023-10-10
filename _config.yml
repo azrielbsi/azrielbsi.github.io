@@ -102,6 +102,17 @@ footer:
       url: "https://instagram.com/mas.ulee"
 
 defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
   # _learns
   - scope:
       path: ""
