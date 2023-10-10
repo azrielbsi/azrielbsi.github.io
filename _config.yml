@@ -41,7 +41,7 @@ include:
   - _pages
 
 collections:
-  posts:
+  learns:
     output: true
     permalink: /:collection/:path/
   articles:
@@ -102,10 +102,10 @@ footer:
       url: "https://instagram.com/mas.ulee"
 
 defaults:
-  # _posts
+  # _learns
   - scope:
       path: ""
-      type: posts
+      type: learns
     values:
       layout: single
       author_profile: true
