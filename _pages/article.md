@@ -1,7 +1,10 @@
 ---
+layout: collection
+title: "Article"
+collection: article
+permalink: /articles/
+
 title: School Programs
-permalink: /article/
-layout: article
 author_profile: false
 header:
   overlay_image: /assets/images/header/apple-eye.jpg
