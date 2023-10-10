@@ -41,7 +41,7 @@ include:
   - _pages
 
 collections:
-  Learns:
+  learns:
     output: true
     permalink: /:collection/:path/
   articles:
@@ -116,7 +116,7 @@ defaults:
   # _learns
   - scope:
       path: ""
-      type: Learns
+      type: learns
     values:
       layout: single
       author_profile: true
