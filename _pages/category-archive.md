@@ -20,6 +20,7 @@ sidebar:
     {% capture label %}{{ collection.label }}{% endcapture %}
     {% if label != written_label %}
       <h2 id="{{ label | slugify }}" class="archive__subtitle">{{ label }}</h2>
+      {% include id="{{ label | slugify }}" class="archive__subtitle">{{ label }} %}
       {% capture written_label %}{{ label }}{% endcapture %}
     {% endif %}
   {% endunless %}
