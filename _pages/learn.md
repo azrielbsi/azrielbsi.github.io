@@ -1,7 +1,10 @@
 ---
-title: School Programs
+layout: collection
+title: "Article"
+collection: learns
 permalink: /learns/
-layout: learns
+
+title: School Programs
 author_profile: false
 header:
   overlay_image: /assets/images/header/apple-eye.jpg
