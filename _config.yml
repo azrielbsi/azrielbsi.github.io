@@ -40,13 +40,6 @@ timezone: Asia/jakarta # https://en.wikipedia.org/wiki/List_of_tz_database_time_
 include:
   - _pages
 
-collections:
-  learns:
-    output: true
-    permalink: /:collection/:path/
-  articles:
-    output: true
-    permalink: /:collection/:path/
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
@@ -113,28 +106,6 @@ defaults:
       comments: true
       share: true
       related: true
-  # _learns
-  - scope:
-      path: ""
-      type: learns
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
-  # _articles
-  - scope:
-      path: ""
-      type: articles
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
   # _pages
   - scope:
       path: "_pages"
@@ -149,10 +120,3 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
-jekyll-archives:
-  enabled:
-    - categories
-    - tags
-  permalinks:
-    category: /categories/:name/
-    tag: /tags/:name/
