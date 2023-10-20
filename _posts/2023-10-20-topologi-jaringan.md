@@ -8,7 +8,6 @@ header:
   overlay_image: /assets/images/header/apple-eye.jpg
   overlay_filter: 0.5
 last_modified_at: 2023-10-20T:00:00-01:00
-show_date: true
 categories:
   - Learn
 tags:
