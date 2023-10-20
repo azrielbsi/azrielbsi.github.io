@@ -7,7 +7,7 @@ header:
   teaser: "/assets/images/teaser/topologi-jaringan.jpg"
   overlay_image: /assets/images/header/apple-eye.jpg
   overlay_filter: 0.5
-last_modified_at: 2023-10-21T:01:00-01:00
+last_modified_at: 2023-10-21T:00:00-01:00
 show_date: true
 categories:
   - Learn
