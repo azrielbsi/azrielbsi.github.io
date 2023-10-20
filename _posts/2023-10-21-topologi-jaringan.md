@@ -29,6 +29,11 @@ Topologi jaringan komputer berfungsi untuk mengetahui bagaimana masing-masing ko
 # Jenis-Jenis Topologi Jaringan Komputer Beserta Kelebihan dan Kekurangannya
 
 ## 1. Topologi Ring (Cincin):
+
+<figure style="width: 500px height: 300px" class="align-center">
+  <img src="https://github.com/azrielbsi/azrielbsi.github.io/assets/126305178/5bbd6ce2-7b73-49cb-8bdc-12703eed3dd9" alt="ring">
+</figure> 
+
 Topologi Ring adalah jenis topologi jaringan komputer di mana setiap perangkat terhubung dengan dua perangkat lainnya, membentuk sebuah cincin tertutup. Data mengalir melalui cincin dari satu perangkat ke perangkat berikutnya dalam satu arah. Umumnya, jenis topologi ini menggunakan LAN card agar masing-masing komputer terkoneksi.
 
 ### Kelebihan Topologi Ring:
@@ -43,6 +48,11 @@ Topologi Ring adalah jenis topologi jaringan komputer di mana setiap perangkat t
 - Jika salah satu koneksi dalam cincin mengalami masalah atau terputus, maka koneksi pada seluruh jaringan ring akan terputus.
 
 ## 2. Topologi Bus:
+
+<figure style="width: 500px height: 300px" class="align-center">
+  <img src="https://github.com/azrielbsi/azrielbsi.github.io/assets/126305178/03af4bfc-873a-453f-bfc4-c0b2fc4017b9" alt="bus">
+</figure> 
+
 Topologi Bus adalah jenis topologi jaringan komputer yang lebih sederhana, di mana perangkat-perangkat dalam jaringan terhubung ke satu kabel utama atau "bus". Setiap perangkat terhubung langsung ke bus, dan data dikirimkan ke seluruh jaringan, tetapi hanya perangkat yang dituju yang akan merespons dan menerima data. Biasanya, topologi bus digunakan dalam jaringan berbasis kabel coaxial.
 
 ### Kelebihan Topologi Bus:
@@ -57,6 +67,11 @@ Topologi Bus adalah jenis topologi jaringan komputer yang lebih sederhana, di ma
 - Jika ada masalah pada kabel, seperti putus atau gangguan, maka seluruh komputer atau workstation dalam jaringan tersebut dapat terganggu atau kehilangan koneksi.
 
 ## 3. Topologi Mesh:
+
+<figure style="width: 500px height: 300px" class="align-center">
+  <img src="https://github.com/azrielbsi/azrielbsi.github.io/assets/126305178/e56ba934-3747-4cab-b2b5-bbc250de5735" alt="mesh">
+</figure>
+
 Topologi Mesh adalah jenis topologi jaringan komputer di mana setiap perangkat terhubung langsung ke setiap perangkat lain dalam jaringan. Ini berarti ada banyak jalur yang berbeda untuk mengirim data dari satu perangkat ke perangkat lain. Dalam topologi ini, tidak ada perangkat pusat seperti hub atau switch. Jaringan mesh sering digunakan dalam aplikasi yang memerlukan keandalan tinggi dan keamanan data.
 
 ### Kelebihan Topologi Mesh:
@@ -72,6 +87,11 @@ Topologi Mesh adalah jenis topologi jaringan komputer di mana setiap perangkat t
 - Instalasi dan pemeliharaan cenderung mahal karena biaya kabel dan konfigurasi yang rumit.
 
 ## 4. Topologi Star (Bintang):
+
+<figure style="width: 500px height: 300px" class="align-center">
+  <img src="https://github.com/azrielbsi/azrielbsi.github.io/assets/126305178/4aa678bc-ed6a-4fb9-8d0e-5595b7d1d7f3" alt="star">
+</figure>
+
 Topologi Star adalah jenis topologi jaringan komputer di mana setiap perangkat terhubung ke satu titik pusat, yang bisa berupa hub atau switch. Dalam topologi ini, semua komunikasi antara perangkat harus melalui titik pusat tersebut. Topologi bintang umum digunakan dalam jaringan kantor, dan itu adalah salah satu topologi yang paling umum digunakan.
 
 ### Kelebihan Topologi Star:
@@ -85,6 +105,11 @@ Topologi Star adalah jenis topologi jaringan komputer di mana setiap perangkat t
 - Kinerja jaringan dapat dipengaruhi oleh kinerja hub atau switch pusat, sehingga jaringan ini sangat tergantung pada terminal pusat.
 
 ## 5. Topologi Tree (Pohon):
+
+<figure style="width: 500px height: 300px" class="align-center">
+  <img src="https://github.com/azrielbsi/azrielbsi.github.io/assets/126305178/e3650b35-a950-447f-b5f6-0344638572a0" alt="tree">
+</figure>
+
 Topologi Tree, juga dikenal sebagai Topologi Pohon, adalah jenis topologi jaringan komputer yang menggabungkan elemen dari topologi Bus (pohon bintang) dan topologi Star (bintang). Dalam topologi ini, beberapa pohon bintang terhubung ke satu pohon bus atau rangkaian pusat. Ini digunakan untuk menghubungkan berbagai hirarki dengan pusat yang berbeda-beda.
 
 ### Kelebihan Topologi Tree:
@@ -98,6 +123,11 @@ Topologi Tree, juga dikenal sebagai Topologi Pohon, adalah jenis topologi jaring
 - Kabel backbone, yang merupakan jalur pusat, bisa menjadi titik kegagalan potensial, sehingga jika ada masalah dengan kabel tersebut, seluruh bagian jaringan terkait juga akan terganggu.
 
 ## 6. Topologi Peer to Peer:
+
+<figure class="align-center">
+  <img src="https://github.com/azrielbsi/azrielbsi.github.io/assets/126305178/b897c5f5-a154-4a54-9107-5cf063ef12f7" alt="peer">
+</figure>
+
 Topologi Peer to Peer (P2P) adalah jenis topologi jaringan komputer yang sangat sederhana di mana setiap perangkat dalam jaringan dianggap setara. Dalam topologi ini, setiap perangkat berfungsi sebagai klien dan server secara bersamaan. Perangkat dapat berkomunikasi langsung satu sama lain tanpa harus melalui server pusat. Topologi P2P umumnya digunakan dalam jaringan kecil, seperti berbagi file antara komputer rumah.
 
 ### Kelebihan Topologi Peer to Peer:
@@ -113,6 +143,11 @@ Topologi Peer to Peer (P2P) adalah jenis topologi jaringan komputer yang sangat 
 - Ketika jaringan tumbuh, manajemen perangkat dalam topologi P2P menjadi semakin sulit dan tidak efisien.
 
 ## 7. Topologi Linier (Bus Berurut):
+
+<figure class="align-center">
+  <img src="https://github.com/azrielbsi/azrielbsi.github.io/assets/126305178/60e2e105-7c34-43cb-a09a-160b79822258" alt="linier">
+</figure>
+
 Topologi Linier, atau yang juga dikenal sebagai Bus Berurut, adalah jenis topologi jaringan komputer yang menghubungkan perangkat dalam satu garis linear tunggal. Setiap perangkat terhubung dengan satu kabel utama dan data mengalir melalui garis tersebut dari satu perangkat ke perangkat berikutnya. Topologi ini sering digunakan dalam jaringan kabel koaksial lama, meskipun sekarang semakin jarang ditemui.
 
 ### Kelebihan Topologi Linier:
@@ -128,6 +163,11 @@ Topologi Linier, atau yang juga dikenal sebagai Bus Berurut, adalah jenis topolo
 - Topologi linier tidak cocok untuk jaringan yang kompleks atau besar karena dapat sulit untuk mengelola ketika jaringan berkembang.
 
 ## 8. Topologi Hybrid:
+
+<figure style="width: 500px height: 300px" class="align-center">
+  <img src="https://github.com/azrielbsi/azrielbsi.github.io/assets/126305178/ea2325ba-47be-48a1-833c-197f166ff1f0" alt="Hybrid">
+</figure>
+
 Topologi Hybrid adalah jenis topologi jaringan komputer yang merupakan gabungan dari dua atau lebih topologi yang berbeda, yang membentuk satu jaringan yang lebih besar dan kompleks. Dalam topologi hybrid, berbagai elemen topologi digabungkan untuk memenuhi kebutuhan khusus dan tuntutan jaringan yang lebih kompleks. Misalnya, jaringan dengan beberapa cabang kantor dapat menggunakan topologi bintang di setiap kantor cabang, tetapi terhubung melalui topologi mesh atau topologi pohon secara keseluruhan.
 
 ### Kelebihan Topologi Hybrid:
