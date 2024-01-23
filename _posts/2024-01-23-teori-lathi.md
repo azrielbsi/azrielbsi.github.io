@@ -2,7 +2,7 @@
 title: "Lyrics dan Teori Seputar Weird Genius - Lathi (ft. Sara Fajira)"
 author_profile: false
 excerpt: "Teori Menurut School Programs"
-last_modified_at: 2024-01-20T12:00:00-05:00
+last_modified_at: 2024-01-23T12:00:00-05:00
 show_date: true
 breadcrumbs: true
 header:
@@ -10,8 +10,8 @@ header:
 categories:
   - Music
 tags:
+  - Lyrics
   - Teori
-  - Catalyst
   - Weird Genius
 comments: true
 sidebar:
