@@ -23,7 +23,7 @@ Broken all the rules<br>
 Huh<br>
 Seeing all null<br>
 Denying all of the truth<br>
-Huh<br>
+Huh<br><br>
 
 Everything has changed<br>
 It all happened for a reason<br>
@@ -31,12 +31,12 @@ Down from the first stage<br>
 It isn't something we fought for<br>
 Never wanted this kind of pain<br>
 Turned myself so cold and heartless<br>
-But one thing you should know<br>
+But one thing you should know<br><br>
 
-Kowe ra iso mlayu saka kesalahan Ajining diri ana ing lathi<br>
+Kowe ra iso mlayu saka kesalahan Ajining diri ana ing lathi<br><br>
 
 Pushing through the countless pain<br>
-And all I know that this love's a bless and curse<br>
+And all I know that this love's a bless and curse<br><br>
 
 Everything has changed<br>
 It all happened for a reason<br>
@@ -44,7 +44,7 @@ Down from the first stage<br>
 It isn't something we fought for<br>
 Never wanted this kind of pain<br>
 Turned myself so cold and heartless<br>
-But one thing you should know<br>
+But one thing you should know<br><br>
 
 Kowe ra iso mlayu saka kesalahan Ajining diri ana ing lathi"
 ---
