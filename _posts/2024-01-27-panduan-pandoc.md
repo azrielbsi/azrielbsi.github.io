@@ -20,7 +20,7 @@ show_date: true
 ---
 
 <figure class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/teaser/teaser-sejarah-laptop.png" alt="sejarah">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/teaser/teaser-sejarah-laptop.png" alt="pandoc">
 </figure> 
 
 # Pendahuluan #
