@@ -13,3 +13,7 @@ I was born and raised in [Jakarta](https://goo.gl/maps/Ht178nYrYi4pYYDN8). Jakar
 Education
 ======
 I am currently completing a Bachelor at [Bina Sarana Informatika University (UBSI)](https://goo.gl/maps/SeYPofUEBUFnR2xr6) to earn an S.Kom degree, previously I studied at [SMK Harapan Bangsa](https://goo.gl/maps/jZExCzgEMXzYFkgy7) high school in West Java province and majored in Computer Network Engineering.
+
+Comunity
+======
+<iframe src="https://discord.com/widget?id=1245192377123995680&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
